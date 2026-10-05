@@ -25,7 +25,10 @@ This project analyzes Amazon India sales data using Excel.
 
 ## 📂 Files Included
 - Amazon_India_Dashboard.xlsx
-- dashboard.png
+- dashboard_1.png
+- dashboard_2.png
+- dashboard_3.png
+- dashboard_4.png
 
 ## 🚀 How to Use
 Download the Excel file and explore the Dashboard sheet.
